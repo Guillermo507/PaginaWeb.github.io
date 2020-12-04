@@ -1,6 +1,14 @@
 .capaimagen{
     border: solid red 2px;
     padding-right: 100px;
+    float: left;
+    width: 25%;
+}
+.capaimagen > p{
+    align-content: space-around;
+    float: right;
+    justify-content: right;
+    color: white;
 }
 .container{
     display: flex;
