@@ -3,12 +3,17 @@
     padding-right: 100px;
     float: left;
     width: 25%;
+    display: flex;
+    flex-wrap: wrap;
 }
 .capaimagen > p{
-    align-content: space-around;
-    float: right;
-    justify-content: right;
     color: white;
+    border: solid white 2px;
+    width: 75%;
+    height: 10%;
+}
+.capaimagen > img{
+    border: solid white 2px;
 }
 .container{
     display: flex;
