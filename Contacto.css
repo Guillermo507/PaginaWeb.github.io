@@ -1,3 +1,12 @@
-.Formulario{
-    margin-right: 5000px;
+.capaimagen{
+    border: solid red 2px;
+    padding-right: 100px;
+}
+.container{
+    display: flex;
+    border: solid blueviolet 2px;
+    width: 50%;
+    margin: auto;
+    justify-content: space-around;
+    padding-top: 15px;
 }
