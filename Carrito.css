@@ -1,0 +1,59 @@
+.container{
+    border: solid white 2px;
+    width: 50%;
+    height: 80%;
+    display: flex;
+    float: center;
+    margin: auto;
+    background-color: rgb(98, 108, 134);
+    flex-direction: column;
+}
+.fenyx{
+    border: solid red 2px;
+    display: flex;
+    padding-left: 11px;
+}
+.cyberpunk{
+    border: solid red 2px;
+    display: flex;
+    padding-top: 7px;
+    padding-left: 11px;
+}
+.dragon{
+    border: solid red 2px;
+    display: flex;
+    padding-top: 7px;
+    padding-left: 11px;
+}
+.chronos{
+    border: solid red 2px;
+    display: flex;
+    padding-top: 7px;
+    padding-left: 11px;
+}
+.football{
+    border: solid red 2px;
+    display: flex;
+    padding-top: 7px;
+    padding-left: 11px;
+}
+.point{
+    border: solid red 2px;
+    display: flex;
+    padding-top: 7px;
+    padding-left: 11px;
+}
+.sea{
+    border: solid red 2px;
+    display: flex;
+    padding-top: 7px;
+    padding-left: 11px;
+}
+.container2{
+    border: solid cyan 2px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+

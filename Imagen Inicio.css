@@ -29,6 +29,7 @@
 	margin: 0 auto 0 auto;
 	display:table;
 	transition: 2s all;
+	opacity: 70%;
 }
 
 .enlace{
@@ -47,5 +48,41 @@ h2{
     font-size: 2em;
     margin: 0;
     font-family: 'Press Start 2P', cursive;
-    padding-top: 10px;
+	padding-top: 20px;
+}
+h3{
+	color: rgb(233, 233, 233);
+    font-size: 2em;
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+	padding-top: 10pc;
+}
+.novedades{
+	display: flex;
+	margin: auto;
+	color: rgb(123, 231, 195);
+	justify-content: left;
+	padding: 16px;
+
+}
+.fenyx{
+	padding: 8px;
+}
+.cyberpunk{
+	padding: 8px;
+}
+.dragon{
+	padding: 8px;
+}
+.chronos{
+	padding: 8px;
+}
+.football{
+	padding: 8px;
+}
+.point{
+	padding: 8px;
+}
+.sea{
+	padding: 8px;
 }
