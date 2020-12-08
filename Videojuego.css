@@ -1,4 +1,21 @@
 .container{
     display: flex;
-    border: solid white 2px;
+    flex-wrap: wrap;
+    height: 15.9%;
+    align-items: top;
+    justify-content: center;
+    color: whitesmoke;
+    background:url(https://hookagency.com/wp-content/uploads/2015/11/murdered-out-dark-black-gradient.jpg) no-repeat;
+    background-size: cover;
+}
+.Trata{
+    height: 65%;
+    background: repeating-conic-gradient(
+    hsl(0deg 0% 80% / 31%) 0deg 15deg,
+    rgba(255, 255, 255, 0) 0deg 30deg
+  ) #207cc7;
+}
+.Trata > a{
+    background-color: rgb(212, 86, 36);
+    border-radius: 5px;
 }
