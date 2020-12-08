@@ -55,5 +55,10 @@
     height: 100%;
     display: flex;
 }
+.container2 > img{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
 
 
